@@ -27,7 +27,7 @@ if(top.location!=location){top.location.href=document.location.href;}
 setTimeout('location.href="index.html/"',60000);
 var time=5,timerx;
 function dlcntdwn(){
-	if(time>=0){
+	if(time>=0){ 
 		document.getElementById("timer").innerHTML=time;
 		time--;
 		timerx=setTimeout("dlcntdwn()",1000);
