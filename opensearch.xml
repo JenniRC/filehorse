@@ -1,0 +1,6 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>FileHorse.com</ShortName>
+	<Description>FileHorse.com - Free Software Download for Windows</Description>
+	<Image height="16" width="16" type="image/x-icon">http://static.filehorse.com/design/favicon.ico</Image>
+	<Url type="text/html" method="get" template="http://www.filehorse.com/search?q={searchTerms}"/>
+</OpenSearchDescription>
